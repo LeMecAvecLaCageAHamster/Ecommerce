@@ -1,0 +1,14 @@
+.icon{
+	width: 100px; height: 80px;
+	margin-top: 5px;
+	margin-left: 2%;
+	margin-right: 2%;
+	border: 5px solid black;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+
+#row{
+	display: block;
+	padding-top: 8px;
+}
