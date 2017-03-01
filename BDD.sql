@@ -6,6 +6,7 @@
 -- Généré le :  Jeu 09 Février 2017 à 17:40
 -- Version du serveur :  5.7.14
 -- Version de PHP :  5.6.25
+--PAR QUENTIN PENAULT
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -19,6 +20,10 @@ SET time_zone = "+00:00";
 --
 -- Base de données :  `ecomitstart2`
 --
+
+DROP DATABASE IF EXISTS ECOMITSTART2;
+CREATE DATABASE IF NOT EXISTS ECOMITSTART2;
+USE ECOMITSTART2;
 
 -- --------------------------------------------------------
 
